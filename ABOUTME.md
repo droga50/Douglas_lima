@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Douglas
+- 👀 I'm a high school student and I want to enter the computer science area.
+- 🌱 I'm currently learning python and intend to learn others like JavaScript and java
+- 💞️ I'm here to learn and use this platform as a way to study
+- 📫 if you wanted to chat with me my email is douglas.lima.bezerra08@aluno.ifce.edu.br and my IG is @dougla5_00
